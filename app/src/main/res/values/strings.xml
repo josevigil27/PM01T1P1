@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PM01T1P1</string>
+    <string name="btnnamepp1">SUMA</string>
+    <string name="btnnamepp2">RESTA</string>
+    <string name="btnnamepp3">MULTIPLICACION</string>
+    <string name="btnnamepp4">DIVISION</string>
+</resources>
